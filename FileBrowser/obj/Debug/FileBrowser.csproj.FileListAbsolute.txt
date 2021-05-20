@@ -1,0 +1,18 @@
+C:\Users\Mantas\Desktop\FileBrowser\FileBrowser\bin\Debug\FileBrowser.exe.config
+C:\Users\Mantas\Desktop\FileBrowser\FileBrowser\bin\Debug\FileBrowser.exe
+C:\Users\Mantas\Desktop\FileBrowser\FileBrowser\bin\Debug\FileBrowser.pdb
+C:\Users\Mantas\Desktop\FileBrowser\FileBrowser\obj\Debug\FileBrowser.csprojResolveAssemblyReference.cache
+C:\Users\Mantas\Desktop\FileBrowser\FileBrowser\obj\Debug\FileBrowser.Form1.resources
+C:\Users\Mantas\Desktop\FileBrowser\FileBrowser\obj\Debug\FileBrowser.Properties.Resources.resources
+C:\Users\Mantas\Desktop\FileBrowser\FileBrowser\obj\Debug\FileBrowser.csproj.GenerateResource.Cache
+C:\Users\Mantas\Desktop\FileBrowser\FileBrowser\obj\Debug\FileBrowser.exe
+C:\Users\Mantas\Desktop\FileBrowser\FileBrowser\obj\Debug\FileBrowser.pdb
+D:\Nkkm\2PL1 2018-2019\17 Paskaita. File Browser\FileBrowser\FileBrowser\bin\Debug\FileBrowser.exe.config
+D:\Nkkm\2PL1 2018-2019\17 Paskaita. File Browser\FileBrowser\FileBrowser\bin\Debug\FileBrowser.exe
+D:\Nkkm\2PL1 2018-2019\17 Paskaita. File Browser\FileBrowser\FileBrowser\bin\Debug\FileBrowser.pdb
+D:\Nkkm\2PL1 2018-2019\17 Paskaita. File Browser\FileBrowser\FileBrowser\obj\Debug\FileBrowser.csprojResolveAssemblyReference.cache
+D:\Nkkm\2PL1 2018-2019\17 Paskaita. File Browser\FileBrowser\FileBrowser\obj\Debug\FileBrowser.Form1.resources
+D:\Nkkm\2PL1 2018-2019\17 Paskaita. File Browser\FileBrowser\FileBrowser\obj\Debug\FileBrowser.Properties.Resources.resources
+D:\Nkkm\2PL1 2018-2019\17 Paskaita. File Browser\FileBrowser\FileBrowser\obj\Debug\FileBrowser.csproj.GenerateResource.Cache
+D:\Nkkm\2PL1 2018-2019\17 Paskaita. File Browser\FileBrowser\FileBrowser\obj\Debug\FileBrowser.exe
+D:\Nkkm\2PL1 2018-2019\17 Paskaita. File Browser\FileBrowser\FileBrowser\obj\Debug\FileBrowser.pdb
